@@ -1,4 +1,3 @@
-
 # AtliQ Sales Insights And Profit Analysis
 ## Project Overview:
 
